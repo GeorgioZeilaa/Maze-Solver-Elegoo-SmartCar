@@ -1,4 +1,4 @@
-# Maze-Solver-Elegoo-SmartCar
+# Maze Solver Elegoo SmartCar
 
 <h2>Features:</h2>
 <p>
