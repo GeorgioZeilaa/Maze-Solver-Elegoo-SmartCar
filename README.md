@@ -2,7 +2,7 @@
 
 <h2>Features:</h2>
 <p>
-- Obstacle avoidance.
+- Obstacle avoidance.<br>
 - 90 degree turns when obstacle found.
 - Advanced Algorithm for finding the most optimal path using LSRB algorithm.
 </p>
